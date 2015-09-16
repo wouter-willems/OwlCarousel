@@ -1,0 +1,19 @@
+{
+  "name": "owl-carousel",
+  "version": "1.3.2",
+  "description": "Photo Carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wouter-willems/OwlCarousel.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wouter-willems/OwlCarousel/issues"
+  },
+  "homepage": "https://github.com/wouter-willems/OwlCarousel#readme"
+}
